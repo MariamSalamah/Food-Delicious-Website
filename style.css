@@ -97,7 +97,7 @@ transition: all 0.3s ease;
 }
 
 .icon__menu i {
-    color: #E5E7E6; /* لون واضح */
+    color: #E5E7E6; 
     
 }
 
@@ -172,7 +172,7 @@ transition: all 0.3s ease;
     }
 
     .icon__menu i {
-        color: #EF5F2F; /* لون واضح */
+        color: #EF5F2F; 
         font-size: 1.8rem;
         size: 24px;
         cursor: pointer;
